@@ -2,9 +2,11 @@
 <head>
 <title>Php Test</title>
 </head>
+  <script language="JavaScript" type="text/javascript">
+    <!--
+    alert("Welcome to javascrript");
+    // -->
+    </script>
 <body>
-<?php
-echo '<p>Hello cloud computing class!</p>' ;
-?>
 </body>
 </html>
