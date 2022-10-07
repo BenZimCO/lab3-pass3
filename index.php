@@ -3,7 +3,7 @@
 <title>Php Test</title>
 </head>
   <script language="JavaScript" type="text/javascript">
-    alert("Welcome to javascrript");
+   console.log('hello world!');
     </script>
 <body>
 </body>
